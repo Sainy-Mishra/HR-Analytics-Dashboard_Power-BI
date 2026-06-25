@@ -19,7 +19,8 @@
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Screenshots/Transforming_Data.png)
 
 ## 🗂️ Dataset
 
