@@ -17,6 +17,10 @@
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](Screenshots/dashboard.png)
+
 ## 🗂️ Dataset
 
 **File:** `HR_Data.xlsx` | **Records:** 1,470 employees | **Attritions:** 237 | **Active:** 1,233
